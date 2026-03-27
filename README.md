@@ -69,21 +69,11 @@ Virtual `displayDetails()` across all entities — true polymorphism.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-<div align="center">
-
-**Patient Management — Add patient with priority level**
-![Patient Management](screenshots/screenshot2.png)
-
-**Doctor Management — View doctors & smart recommendation**
-![Doctor Management](screenshots/screenshot1.png)
-
-**Ward & Scheduling — Add ward + Priority Queue in action**
-![Ward and Scheduling](screenshots/screenshot3.png)
-
-</div>
-
+![Main Menu](screenshots/main_menu.png.png)
+![Patient Management](screenshots/patient_management.png.png)
+![Hospital Running](screenshots/hospital_running.png.png)
 ---
 
 ## 📁 Project Structure
