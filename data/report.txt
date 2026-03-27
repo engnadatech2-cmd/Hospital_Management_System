@@ -1,0 +1,11 @@
+=== HOSPITAL SYSTEM REPORT ===
+
+Total Patients Registered: 2
+Total Doctors Registered: 1
+Total Wards Registered: 1
+
+--- Ward Occupancy ---
+Ward 169 (ICU): 0/60
+
+--- Busiest Doctors ---
+magdy ( diabetes) - 0 patients
